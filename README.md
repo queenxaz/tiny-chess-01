@@ -12,6 +12,12 @@ A compact chess engine in 4 KB of Python: 0x88 board, negamax with alpha-beta, t
 MAKEFUN_ENV_URL=<env-url> python3 main.py
 ```
 
+## License
+
+MIT — see [LICENSE](LICENSE) (`SPDX-License-Identifier: MIT`).
+
+Engine is deterministic: fixed 100,000 nodes per move, Python 3.13 standard library only.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
